@@ -1,6 +1,6 @@
 #  ** Data-Analysis-Project-SQL-and-PowerBi- **
-- This Project about Development of Toman Bike Share Dashboard. In this project there is using the PowerBi desktop for visulization the Dashboard and for Databsase using the     SQL SERVER MANAGEMENT STUDIO 2.0 because there is the easy way to establish or connect the database to PowerBi.
-- In this Database there is used the CTE process for create temporary name table and created from a simple SELECT statement that can be used in a subsequent SELECT statement.
+-- This Project is about the Development of the Toman Bike Share Dashboard. This project uses the PowerBi desktop to visualise the Dashboard and for the Database using the      SQL SERVER MANAGEMENT STUDIO 2.0 because there is an easy way to establish or connect the database to PowerBi.
+-- In this database, the CTE process is used to create a temporary name table made from a simple SELECT statement that can be used in a subsequent SELECT statement..
 
 The Data Sources provided by Toman Bicycle comapny:-
 ----------------------------------------------------------
